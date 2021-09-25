@@ -8,7 +8,7 @@ def play_again():
         pass
 
 def get_word():
-    words = ['cat', 'dog', 'python', 'monkey', 'snake']
+    words = ['cat', 'dog', 'python', 'monkey', 'snake','cow','blue','red'.]
     return random.choice(words)
 
 def play_game():
